@@ -1,0 +1,6 @@
+dwadw: 41
+Z1 Endurance 90 - 116  4%
+Z2 Moderate 116 - 143  19%
+Z3 Tempo 143 - 152  26%
+Z4 Threshold 152 - 165  35%
+Z5 Anaerobic 165 - 179  16%
